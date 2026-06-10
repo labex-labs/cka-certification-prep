@@ -1,8 +1,8 @@
-# CKA-Schulung Zertifizierungsvorbereitung
+# CKA-Schulung Certification Prep Path
 
 ## Sprachen
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/de/learn/cka"><img width="128px" src="https://file.labex.io/path/D11aS1XBKGaa.png"></a>
@@ -22,7 +22,7 @@ Ein einsteigerfreundlicher CKA-Vorbereitungskurs mit 48 geführten Kubernetes-Ad
 
 [Kurs Starten](https://labex.io/de/courses/cka-prep) · Labs: 48
 
-#### Cluster Orientation and Admin Foundations
+#### Cluster-Orientierung und Grundlagen der Administration
 
 |   Index | Name                                                 | Schwierigkeit   | Übung                                                                                                           |
 |---------|------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Ein einsteigerfreundlicher CKA-Vorbereitungskurs mit 48 geführten Kubernetes-Ad
 |       6 | 🧩  Namespaces für administrative Workflows verwalten | Anfänger        | [Labor Starten](https://labex.io/de/labs/manage-namespaces-for-administrative-workflows-663784?course=cka-prep) |
 |       7 | 🧩  Verwendung von Dry Run und Explain für Manifeste  | Anfänger        | [Labor Starten](https://labex.io/de/labs/use-dry-run-and-explain-for-manifests-663805?course=cka-prep)          |
 
-#### Workloads and Scheduling
+#### Workloads und Scheduling
 
 |   Index | Name                                                         | Schwierigkeit   | Übung                                                                                                            |
 |---------|--------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Ein einsteigerfreundlicher CKA-Vorbereitungskurs mit 48 geführten Kubernetes-Ad
 |       8 | 🧩  Taints und Tolerations verwenden                          | Anfänger        | [Labor Starten](https://labex.io/de/labs/use-taints-and-tolerations-663807?course=cka-prep)                      |
 |       9 | 🧩  Verfügbarkeit mit PodDisruptionBudgets schützen           | Anfänger        | [Labor Starten](https://labex.io/de/labs/protect-availability-with-poddisruptionbudgets-663789?course=cka-prep)  |
 
-#### Cluster Architecture, Installation, and Configuration
+#### Cluster-Architektur, Installation und Konfiguration
 
 |   Index | Name                                                    | Schwierigkeit   | Übung                                                                                                       |
 |---------|---------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------|
@@ -62,7 +62,7 @@ Ein einsteigerfreundlicher CKA-Vorbereitungskurs mit 48 geführten Kubernetes-Ad
 |       8 | 🧩  Definieren und Verwenden einer Custom Resource       | Anfänger        | [Labor Starten](https://labex.io/de/labs/define-and-use-a-custom-resource-663767?course=cka-prep)           |
 |       9 | 🧩  Untersuchung der CNI-, CSI- und CRI-Schnittstellen   | Anfänger        | [Labor Starten](https://labex.io/de/labs/inspect-cni-csi-and-cri-interfaces-663778?course=cka-prep)         |
 
-#### Services and Networking
+#### Services und Networking
 
 |   Index | Name                                              | Schwierigkeit   | Übung                                                                                                     |
 |---------|---------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------|
@@ -86,7 +86,7 @@ Ein einsteigerfreundlicher CKA-Vorbereitungskurs mit 48 geführten Kubernetes-Ad
 |       5 | 🧩  Daten mit Reclaim Policies bewahren                      | Anfänger        | [Labor Starten](https://labex.io/de/labs/preserve-data-with-reclaim-policies-663788?course=cka-prep)             |
 |       6 | 🧩  Fehlerbehebung bei PVC-Bindung und Mounts                | Anfänger        | [Labor Starten](https://labex.io/de/labs/troubleshoot-pvc-binding-and-mounts-663803?course=cka-prep)             |
 
-#### Troubleshooting and Maintenance
+#### Fehlerbehebung und Wartung
 
 |   Index | Name                                                             | Schwierigkeit   | Übung                                                                                                   |
 |---------|------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------|
@@ -106,14 +106,14 @@ Eine praxisorientierte CKA-Übungsprüfung mit 20 unabhängigen Kubernetes-Admin
 
 [Kurs Starten](https://labex.io/de/courses/cka-practice-exam-01) · Labs: 20
 
-#### Storage
+#### Speicher
 
 |   Index | Name                                                         | Schwierigkeit   | Übung                                                                                                                                |
 |---------|--------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 🎯  Anwendungsdaten mit einem PersistentVolumeClaim einbinden | Anfänger        | [Challenge Starten](https://labex.io/de/labs/mount-application-data-with-a-persistentvolumeclaim-663017?course=cka-practice-exam-01) |
 |       2 | 🎯  Ein statisches PersistentVolume für Archivdaten einbinden | Anfänger        | [Challenge Starten](https://labex.io/de/labs/bind-a-static-persistentvolume-for-archive-data-663007?course=cka-practice-exam-01)     |
 
-#### Troubleshooting
+#### Fehlerbehebung
 
 |   Index | Name                                                                  | Schwierigkeit   | Übung                                                                                                                           |
 |---------|-----------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -124,7 +124,7 @@ Eine praxisorientierte CKA-Übungsprüfung mit 20 unabhängigen Kubernetes-Admin
 |       5 | 🎯  CoreDNS Namensauflösung wiederherstellen                           | Anfänger        | [Challenge Starten](https://labex.io/de/labs/restore-coredns-name-resolution-663023?course=cka-practice-exam-01)                |
 |       6 | 🎯  Diagnose von Cluster-Ressourcenengpässen                           | Anfänger        | [Challenge Starten](https://labex.io/de/labs/diagnose-cluster-resource-pressure-663013?course=cka-practice-exam-01)             |
 
-#### Workloads and Scheduling
+#### Workloads und Scheduling
 
 |   Index | Name                                                                | Schwierigkeit   | Übung                                                                                                                                       |
 |---------|---------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,7 +132,7 @@ Eine praxisorientierte CKA-Übungsprüfung mit 20 unabhängigen Kubernetes-Admin
 |       2 | 🎯  Anwendungseinstellungen mit ConfigMaps und Secrets konfigurieren | Anfänger        | [Challenge Starten](https://labex.io/de/labs/configure-application-settings-with-configmaps-and-secrets-663008?course=cka-practice-exam-01) |
 |       3 | 🎯  Workloads mit Affinität und Ressourcenkontrollen platzieren      | Anfänger        | [Challenge Starten](https://labex.io/de/labs/place-workloads-with-affinity-and-resource-controls-663019?course=cka-practice-exam-01)        |
 
-#### Cluster Architecture, Installation and Configuration
+#### Cluster-Architektur, Installation und Konfiguration
 
 |   Index | Name                                                           | Schwierigkeit   | Übung                                                                                                                            |
 |---------|----------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -142,7 +142,7 @@ Eine praxisorientierte CKA-Übungsprüfung mit 20 unabhängigen Kubernetes-Admin
 |       4 | 🎯  Bereitstellung eines Cluster-Add-ons mit Helm und Kustomize | Anfänger        | [Challenge Starten](https://labex.io/de/labs/deploy-a-cluster-add-on-with-helm-and-kustomize-663012?course=cka-practice-exam-01) |
 |       5 | 🎯  Definieren und Verwenden einer Custom Resource              | Anfänger        | [Challenge Starten](https://labex.io/de/labs/define-and-use-a-custom-resource-663011?course=cka-practice-exam-01)                |
 
-#### Services and Networking
+#### Services und Netzwerk
 
 |   Index | Name                                                | Schwierigkeit   | Übung                                                                                                                           |
 |---------|-----------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -157,14 +157,14 @@ Eine zweite, unabhängige CKA-Übungsprüfung mit 20 Kubernetes-Administrations-
 
 [Kurs Starten](https://labex.io/de/courses/cka-practice-exam-02) · Labs: 20
 
-#### Storage
+#### Speicher
 
 |   Index | Name                                                                       | Schwierigkeit   | Übung                                                                                                                           |
 |---------|----------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 🎯  Anwendungsprotokolle mit einer StorageClass bereitstellen               | Anfänger        | [Challenge Starten](https://labex.io/de/labs/provision-application-logs-with-a-storageclass-663037?course=cka-practice-exam-02) |
 |       2 | 🎯  Daten aus einem beibehaltenen Volume (Retained Volume) wiederherstellen | Anfänger        | [Challenge Starten](https://labex.io/de/labs/preserve-released-data-from-a-retained-volume-663035?course=cka-practice-exam-02)  |
 
-#### Troubleshooting
+#### Fehlerbehebung
 
 |   Index | Name                                                              | Schwierigkeit   | Übung                                                                                                                            |
 |---------|-------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -175,7 +175,7 @@ Eine zweite, unabhängige CKA-Übungsprüfung mit 20 Kubernetes-Administrations-
 |       5 | 🎯  Wiederherstellung der Node-Planung nach Wartungsabweichungen   | Anfänger        | [Challenge Starten](https://labex.io/de/labs/restore-node-scheduling-after-maintenance-drift-663044?course=cka-practice-exam-02) |
 |       6 | 🎯  Wiederherstellung der Service-Discovery für Headless-Workloads | Anfänger        | [Challenge Starten](https://labex.io/de/labs/repair-service-discovery-for-headless-workloads-663042?course=cka-practice-exam-02) |
 
-#### Workloads and Scheduling
+#### Workloads und Scheduling
 
 |   Index | Name                                                          | Schwierigkeit   | Übung                                                                                                                               |
 |---------|---------------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -183,7 +183,7 @@ Eine zweite, unabhängige CKA-Übungsprüfung mit 20 Kubernetes-Administrations-
 |       2 | 🎯  Verfügbarkeit mit einem PodDisruptionBudget schützen       | Anfänger        | [Challenge Starten](https://labex.io/de/labs/protect-availability-with-a-poddisruptionbudget-663036?course=cka-practice-exam-02)    |
 |       3 | 🎯  Pods mit Admission- und Runtime-Einstellungen einschränken | Anfänger        | [Challenge Starten](https://labex.io/de/labs/constrain-pods-with-admission-and-runtime-settings-663029?course=cka-practice-exam-02) |
 
-#### Cluster Architecture, Installation and Configuration
+#### Cluster-Architektur, Installation und Konfiguration
 
 |   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                            |
 |---------|-------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -193,7 +193,7 @@ Eine zweite, unabhängige CKA-Übungsprüfung mit 20 Kubernetes-Administrations-
 |       4 | 🎯  Installieren eines Staged CSI Mock Drivers mit Kustomize | Anfänger        | [Challenge Starten](https://labex.io/de/labs/install-a-staged-csi-mock-driver-with-kustomize-663033?course=cka-practice-exam-02) |
 |       5 | 🎯  Validierung einer Operator-verwalteten Custom Resource   | Anfänger        | [Challenge Starten](https://labex.io/de/labs/validate-an-operator-managed-custom-resource-663046?course=cka-practice-exam-02)    |
 
-#### Services and Networking
+#### Services und Netzwerk
 
 |   Index | Name                                                              | Schwierigkeit   | Übung                                                                                                                      |
 |---------|-------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------|
