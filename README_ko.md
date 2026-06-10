@@ -18,6 +18,8 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 
 ### 1. [CKA 준비 과정](https://labex.io/ko/courses/cka-prep)
 
+[![CKA 준비 과정](https://course-cover.labex.io/cka-prep.png?lang=ko)](https://labex.io/ko/courses/cka-prep)
+
 클러스터 오리엔테이션부터 워크로드, 아키텍처, 네트워킹, 스토리지, 트러블슈팅, 유지보수까지 총 48 개의 가이드형 Kubernetes 관리 실험으로 구성된 초보자 맞춤형 CKA 준비 과정입니다.
 
 [코스 시작](https://labex.io/ko/courses/cka-prep) · 실습: 48
@@ -102,6 +104,8 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 
 ### 2. [CKA 실전 모의고사 01](https://labex.io/ko/courses/cka-practice-exam-01)
 
+[![CKA 실전 모의고사 01](https://course-cover.labex.io/cka-practice-exam-01.png?lang=ko)](https://labex.io/ko/courses/cka-practice-exam-01)
+
 스토리지, 트러블슈팅, 워크로드 및 스케줄링, 클러스터 아키텍처, 서비스 및 네트워킹 등 CKA 의 핵심 영역을 다루는 20 개의 독립적인 쿠버네티스 관리 실습 도전 과제로 구성된 CKA 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/cka-practice-exam-01) · 실습: 20
@@ -152,6 +156,8 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     4 | 🎯  내부 DNS 별칭 구성                     | 초급    | [도전 시작](https://labex.io/ko/labs/configure-an-internal-dns-alias-663009?course=cka-practice-exam-01)                |
 
 ### 3. [CKA 실전 모의고사 02](https://labex.io/ko/courses/cka-practice-exam-02)
+
+[![CKA 실전 모의고사 02](https://course-cover.labex.io/cka-practice-exam-02.png?lang=ko)](https://labex.io/ko/courses/cka-practice-exam-02)
 
 공식 CKA 시험 영역을 다양한 운영 시나리오로 구성한 20 개의 쿠버네티스 관리 도전 과제로 이루어진 두 번째 독립형 CKA 실전 모의고사입니다.
 
