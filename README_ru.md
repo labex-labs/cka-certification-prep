@@ -18,6 +18,8 @@
 
 ### 1. [Подготовка к CKA](https://labex.io/ru/courses/cka-prep)
 
+[![Подготовка к CKA](https://course-cover.labex.io/cka-prep.png?lang=ru)](https://labex.io/ru/courses/cka-prep)
+
 Курс по подготовке к CKA для начинающих, включающий 48 практических лабораторных работ по Kubernetes. Программа охватывает всё: от основ кластера до управления рабочими нагрузками, архитектуры, сетевого взаимодействия, хранилищ, устранения неполадок и обслуживания.
 
 [Начать Курс](https://labex.io/ru/courses/cka-prep) · Лаборатории: 48
@@ -102,6 +104,8 @@
 
 ### 2. [Практический экзамен CKA 01](https://labex.io/ru/courses/cka-practice-exam-01)
 
+[![Практический экзамен CKA 01](https://course-cover.labex.io/cka-practice-exam-01.png?lang=ru)](https://labex.io/ru/courses/cka-practice-exam-01)
+
 Практический экзамен CKA с 20 независимыми задачами по администрированию Kubernetes, охватывающими хранилища, устранение неполадок, рабочие нагрузки и планирование, архитектуру кластера, а также сервисы и сети.
 
 [Начать Курс](https://labex.io/ru/courses/cka-practice-exam-01) · Лаборатории: 20
@@ -152,6 +156,8 @@
 |        4 | 🎯  Настройка внутреннего DNS-алиаса                                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/configure-an-internal-dns-alias-663009?course=cka-practice-exam-01)                |
 
 ### 3. [Практический экзамен CKA 02](https://labex.io/ru/courses/cka-practice-exam-02)
+
+[![Практический экзамен CKA 02](https://course-cover.labex.io/cka-practice-exam-02.png?lang=ru)](https://labex.io/ru/courses/cka-practice-exam-02)
 
 Второй независимый практический экзамен в стиле CKA, включающий 20 задач по администрированию Kubernetes, охватывающих все ключевые области CKA через различные операционные сценарии.
 
