@@ -1,8 +1,8 @@
-# CKA 교육 인증 준비 경로
+# CKA 교육 Certification Prep Path
 
 ## 언어
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/ko/learn/cka"><img width="128px" src="https://file.labex.io/path/D11aS1XBKGaa.png"></a>
@@ -10,7 +10,7 @@
 
 [![Start-Learning](https://img.shields.io/badge/경로-시작-whitesmoke?style=for-the-badge)](https://labex.io/ko/learn/cka)
 
-Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중심 학습 경로로 준비하세요. Kubernetes에서 클러스터 관리, 설치 및 구성, 워크로드 및 스케줄링, 서비스 및 네트워킹, 스토리지, 문제 해결, CKA 형태의 성능 기반 작업, 현실 시나리오에 초점을 맞춥니다. CKA 과정, 랩, 모의고사 연습이 단계적으로 추가됩니다.
+Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중심 학습 경로로 준비하세요. Kubernetes 에서 클러스터 관리, 설치 및 구성, 워크로드 및 스케줄링, 서비스 및 네트워킹, 스토리지, 문제 해결, CKA 형태의 성능 기반 작업, 현실 시나리오에 초점을 맞춥니다. CKA 과정, 랩, 모의고사 연습이 단계적으로 추가됩니다.
 
 **코스**: 3 · **실습**: 88
 
@@ -22,7 +22,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 
 [코스 시작](https://labex.io/ko/courses/cka-prep) · 실습: 48
 
-#### Cluster Orientation and Admin Foundations
+#### 클러스터 오리엔테이션 및 관리 기초
 
 |   인덱스 | 이름                                 | 난이도   | 연습                                                                                                      |
 |-------|------------------------------------|-------|---------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     6 | 🧩  관리 워크플로우를 위한 네임스페이스 관리          | 초급    | [실습 시작](https://labex.io/ko/labs/manage-namespaces-for-administrative-workflows-663784?course=cka-prep) |
 |     7 | 🧩  매니페스트를 위한 Dry Run 및 Explain 사용법 | 초급    | [실습 시작](https://labex.io/ko/labs/use-dry-run-and-explain-for-manifests-663805?course=cka-prep)          |
 
-#### Workloads and Scheduling
+#### 워크로드 및 스케줄링
 
 |   인덱스 | 이름                                         | 난이도   | 연습                                                                                                       |
 |-------|--------------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     8 | 🧩  테인트 (Taints) 와 톨러레이션 (Tolerations) 사용하기 | 초급    | [실습 시작](https://labex.io/ko/labs/use-taints-and-tolerations-663807?course=cka-prep)                      |
 |     9 | 🧩  PodDisruptionBudget 을 통한 가용성 보호         | 초급    | [실습 시작](https://labex.io/ko/labs/protect-availability-with-poddisruptionbudgets-663789?course=cka-prep)  |
 
-#### Cluster Architecture, Installation, and Configuration
+#### 클러스터 아키텍처, 설치 및 구성
 
 |   인덱스 | 이름                                      | 난이도   | 연습                                                                                                  |
 |-------|-----------------------------------------|-------|-----------------------------------------------------------------------------------------------------|
@@ -62,7 +62,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     8 | 🧩  사용자 정의 리소스 (Custom Resource) 정의 및 사용 | 초급    | [실습 시작](https://labex.io/ko/labs/define-and-use-a-custom-resource-663767?course=cka-prep)           |
 |     9 | 🧩  CNI, CSI 및 CRI 인터페이스 검사              | 초급    | [실습 시작](https://labex.io/ko/labs/inspect-cni-csi-and-cri-interfaces-663778?course=cka-prep)         |
 
-#### Services and Networking
+#### 서비스 및 네트워킹
 
 |   인덱스 | 이름                               | 난이도   | 연습                                                                                                |
 |-------|----------------------------------|-------|---------------------------------------------------------------------------------------------------|
@@ -75,7 +75,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     7 | 🧩  Ingress 를 이용한 HTTP 트래픽 라우팅    | 초급    | [실습 시작](https://labex.io/ko/labs/route-http-traffic-with-ingress-663799?course=cka-prep)          |
 |     8 | 🧩  Gateway 라우팅을 통한 API 게시        | 초급    | [실습 시작](https://labex.io/ko/labs/publish-an-api-with-gateway-routing-663790?course=cka-prep)      |
 
-#### Storage
+#### 스토리지
 
 |   인덱스 | 이름                             | 난이도   | 연습                                                                                                       |
 |-------|--------------------------------|-------|----------------------------------------------------------------------------------------------------------|
@@ -86,7 +86,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     5 | 🧩  Reclaim Policy 를 사용한 데이터 보존 | 초급    | [실습 시작](https://labex.io/ko/labs/preserve-data-with-reclaim-policies-663788?course=cka-prep)             |
 |     6 | 🧩  PVC 바인딩 및 마운트 문제 해결         | 초급    | [실습 시작](https://labex.io/ko/labs/troubleshoot-pvc-binding-and-mounts-663803?course=cka-prep)             |
 
-#### Troubleshooting and Maintenance
+#### 문제 해결 및 유지보수
 
 |   인덱스 | 이름                                  | 난이도   | 연습                                                                                              |
 |-------|-------------------------------------|-------|-------------------------------------------------------------------------------------------------|
@@ -102,18 +102,18 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 
 ### 2. [CKA 실전 모의고사 01](https://labex.io/ko/courses/cka-practice-exam-01)
 
-스토리지, 트러블슈팅, 워크로드 및 스케줄링, 클러스터 아키텍처, 서비스 및 네트워킹 등 CKA의 핵심 영역을 다루는 20개의 독립적인 쿠버네티스 관리 실습 도전 과제로 구성된 CKA 모의고사입니다.
+스토리지, 트러블슈팅, 워크로드 및 스케줄링, 클러스터 아키텍처, 서비스 및 네트워킹 등 CKA 의 핵심 영역을 다루는 20 개의 독립적인 쿠버네티스 관리 실습 도전 과제로 구성된 CKA 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/cka-practice-exam-01) · 실습: 20
 
-#### Storage
+#### 스토리지
 
 |   인덱스 | 이름                                               | 난이도   | 연습                                                                                                                       |
 |-------|--------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------|
 |     1 | 🎯  PersistentVolumeClaim 을 사용하여 애플리케이션 데이터 마운트하기 | 초급    | [도전 시작](https://labex.io/ko/labs/mount-application-data-with-a-persistentvolumeclaim-663017?course=cka-practice-exam-01) |
 |     2 | 🎯  아카이브 데이터를 위한 정적 PersistentVolume 바인딩          | 초급    | [도전 시작](https://labex.io/ko/labs/bind-a-static-persistentvolume-for-archive-data-663007?course=cka-practice-exam-01)     |
 
-#### Troubleshooting
+#### 문제 해결
 
 |   인덱스 | 이름                                    | 난이도   | 연습                                                                                                                  |
 |-------|---------------------------------------|-------|---------------------------------------------------------------------------------------------------------------------|
@@ -124,7 +124,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     5 | 🎯  CoreDNS 이름 확인 복구                   | 초급    | [도전 시작](https://labex.io/ko/labs/restore-coredns-name-resolution-663023?course=cka-practice-exam-01)                |
 |     6 | 🎯  클러스터 리소스 압박 진단                     | 초급    | [도전 시작](https://labex.io/ko/labs/diagnose-cluster-resource-pressure-663013?course=cka-practice-exam-01)             |
 
-#### Workloads and Scheduling
+#### 워크로드 및 스케줄링
 
 |   인덱스 | 이름                                       | 난이도   | 연습                                                                                                                              |
 |-------|------------------------------------------|-------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -132,7 +132,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     2 | 🎯  ConfigMap 과 Secret 을 사용한 애플리케이션 설정 구성 | 초급    | [도전 시작](https://labex.io/ko/labs/configure-application-settings-with-configmaps-and-secrets-663008?course=cka-practice-exam-01) |
 |     3 | 🎯  어피니티 및 리소스 제어를 통한 워크로드 배치             | 초급    | [도전 시작](https://labex.io/ko/labs/place-workloads-with-affinity-and-resource-controls-663019?course=cka-practice-exam-01)        |
 
-#### Cluster Architecture, Installation and Configuration
+#### 클러스터 아키텍처, 설치 및 구성
 
 |   인덱스 | 이름                                    | 난이도   | 연습                                                                                                                   |
 |-------|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------|
@@ -142,7 +142,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     4 | 🎯  Helm 과 Kustomize 를 사용한 클러스터 애드온 배포 | 초급    | [도전 시작](https://labex.io/ko/labs/deploy-a-cluster-add-on-with-helm-and-kustomize-663012?course=cka-practice-exam-01) |
 |     5 | 🎯  사용자 정의 리소스 정의 및 사용                 | 초급    | [도전 시작](https://labex.io/ko/labs/define-and-use-a-custom-resource-663011?course=cka-practice-exam-01)                |
 
-#### Services and Networking
+#### 서비스 및 네트워킹
 
 |   인덱스 | 이름                                  | 난이도   | 연습                                                                                                                  |
 |-------|-------------------------------------|-------|---------------------------------------------------------------------------------------------------------------------|
@@ -153,18 +153,18 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 
 ### 3. [CKA 실전 모의고사 02](https://labex.io/ko/courses/cka-practice-exam-02)
 
-공식 CKA 시험 영역을 다양한 운영 시나리오로 구성한 20개의 쿠버네티스 관리 도전 과제로 이루어진 두 번째 독립형 CKA 실전 모의고사입니다.
+공식 CKA 시험 영역을 다양한 운영 시나리오로 구성한 20 개의 쿠버네티스 관리 도전 과제로 이루어진 두 번째 독립형 CKA 실전 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/cka-practice-exam-02) · 실습: 20
 
-#### Storage
+#### 스토리지
 
 |   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                  |
 |-------|----------------------------------------|-------|---------------------------------------------------------------------------------------------------------------------|
 |     1 | 🎯  StorageClass 를 사용하여 애플리케이션 로그 프로비저닝 | 초급    | [도전 시작](https://labex.io/ko/labs/provision-application-logs-with-a-storageclass-663037?course=cka-practice-exam-02) |
 |     2 | 🎯  Retain 정책이 적용된 볼륨의 데이터 보존하기         | 초급    | [도전 시작](https://labex.io/ko/labs/preserve-released-data-from-a-retained-volume-663035?course=cka-practice-exam-02)  |
 
-#### Troubleshooting
+#### 문제 해결
 
 |   인덱스 | 이름                            | 난이도   | 연습                                                                                                                   |
 |-------|-------------------------------|-------|----------------------------------------------------------------------------------------------------------------------|
@@ -175,7 +175,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     5 | 🎯  유지보수 후 노드 스케줄링 복구          | 초급    | [도전 시작](https://labex.io/ko/labs/restore-node-scheduling-after-maintenance-drift-663044?course=cka-practice-exam-02) |
 |     6 | 🎯  헤드리스 워크로드를 위한 서비스 디스커버리 복구 | 초급    | [도전 시작](https://labex.io/ko/labs/repair-service-discovery-for-headless-workloads-663042?course=cka-practice-exam-02) |
 
-#### Workloads and Scheduling
+#### 워크로드 및 스케줄링
 
 |   인덱스 | 이름                                 | 난이도   | 연습                                                                                                                      |
 |-------|------------------------------------|-------|-------------------------------------------------------------------------------------------------------------------------|
@@ -183,7 +183,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     2 | 🎯  PodDisruptionBudget 을 통한 가용성 보호 | 초급    | [도전 시작](https://labex.io/ko/labs/protect-availability-with-a-poddisruptionbudget-663036?course=cka-practice-exam-02)    |
 |     3 | 🎯  Admission 및 런타임 설정을 통한 Pod 제약   | 초급    | [도전 시작](https://labex.io/ko/labs/constrain-pods-with-admission-and-runtime-settings-663029?course=cka-practice-exam-02) |
 
-#### Cluster Architecture, Installation and Configuration
+#### 클러스터 아키텍처, 설치 및 구성
 
 |   인덱스 | 이름                                            | 난이도   | 연습                                                                                                                   |
 |-------|-----------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------|
@@ -193,7 +193,7 @@ Certified Kubernetes Administrator(CKA) 시험을 위해 구조화된 실습 중
 |     4 | 🎯  Kustomize 를 사용하여 Staged CSI Mock 드라이버 설치하기 | 초급    | [도전 시작](https://labex.io/ko/labs/install-a-staged-csi-mock-driver-with-kustomize-663033?course=cka-practice-exam-02) |
 |     5 | 🎯  운영자가 관리하는 커스텀 리소스 검증                       | 초급    | [도전 시작](https://labex.io/ko/labs/validate-an-operator-managed-custom-resource-663046?course=cka-practice-exam-02)    |
 
-#### Services and Networking
+#### 서비스 및 네트워킹
 
 |   인덱스 | 이름                               | 난이도   | 연습                                                                                                             |
 |-------|----------------------------------|-------|----------------------------------------------------------------------------------------------------------------|
