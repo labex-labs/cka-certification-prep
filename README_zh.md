@@ -18,6 +18,8 @@
 
 ### 1. [CKA 备考指南](https://labex.io/zh/courses/cka-prep)
 
+[![CKA 备考指南](https://course-cover.labex.io/cka-prep.png?lang=zh)](https://labex.io/zh/courses/cka-prep)
+
 这是一门面向初学者的 CKA 备考课程，包含 48 个引导式 Kubernetes 管理实验，内容涵盖从集群入门到工作负载、架构、网络、存储、故障排查及维护的全方位实践。
 
 [开始课程](https://labex.io/zh/courses/cka-prep) · 实验: 48
@@ -102,6 +104,8 @@
 
 ### 2. [CKA 模拟考试 01](https://labex.io/zh/courses/cka-practice-exam-01)
 
+[![CKA 模拟考试 01](https://course-cover.labex.io/cka-practice-exam-01.png?lang=zh)](https://labex.io/zh/courses/cka-practice-exam-01)
+
 这是一场实战型 CKA 模拟考试，包含 20 个独立的 Kubernetes 管理挑战，涵盖存储、故障排查、工作负载与调度、集群架构以及服务与网络等核心领域。
 
 [开始课程](https://labex.io/zh/courses/cka-practice-exam-01) · 实验: 20
@@ -152,6 +156,8 @@
 |    4 | 🎯  配置内部 DNS 别名                 | 初级   | [开始挑战](https://labex.io/zh/labs/configure-an-internal-dns-alias-663009?course=cka-practice-exam-01)                |
 
 ### 3. [CKA 模拟考试 02](https://labex.io/zh/courses/cka-practice-exam-02)
+
+[![CKA 模拟考试 02](https://course-cover.labex.io/cka-practice-exam-02.png?lang=zh)](https://labex.io/zh/courses/cka-practice-exam-02)
 
 第二套独立的 CKA 风格模拟考试，包含 20 个 Kubernetes 管理挑战，涵盖了 CKA 考试大纲中涉及的各个核心领域及不同的运维场景。
 
