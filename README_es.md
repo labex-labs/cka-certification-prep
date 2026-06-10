@@ -18,6 +18,8 @@ Prepárate para el examen Certified Kubernetes Administrator (CKA) con una ruta 
 
 ### 1. [Preparación para CKA](https://labex.io/es/courses/cka-prep)
 
+[![Preparación para CKA](https://course-cover.labex.io/cka-prep.png?lang=es)](https://labex.io/es/courses/cka-prep)
+
 Un curso de preparación para CKA ideal para principiantes, que incluye 48 experimentos guiados de administración de Kubernetes, organizados desde la orientación del clúster hasta cargas de trabajo, arquitectura, redes, almacenamiento, resolución de problemas y mantenimiento.
 
 [Iniciar Curso](https://labex.io/es/courses/cka-prep) · Laboratorios: 48
@@ -102,6 +104,8 @@ Un curso de preparación para CKA ideal para principiantes, que incluye 48 exper
 
 ### 2. [Examen de práctica CKA 01](https://labex.io/es/courses/cka-practice-exam-01)
 
+[![Examen de práctica CKA 01](https://course-cover.labex.io/cka-practice-exam-01.png?lang=es)](https://labex.io/es/courses/cka-practice-exam-01)
+
 Un examen de práctica práctico de CKA con 20 desafíos independientes de administración de Kubernetes que cubren almacenamiento, resolución de problemas, cargas de trabajo y programación, arquitectura de clústeres, y servicios y redes.
 
 [Iniciar Curso](https://labex.io/es/courses/cka-practice-exam-01) · Laboratorios: 20
@@ -152,6 +156,8 @@ Un examen de práctica práctico de CKA con 20 desafíos independientes de admin
 |        4 | 🎯  Configurar un alias DNS interno                    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/configure-an-internal-dns-alias-663009?course=cka-practice-exam-01)                |
 
 ### 3. [Examen de práctica CKA 02](https://labex.io/es/courses/cka-practice-exam-02)
+
+[![Examen de práctica CKA 02](https://course-cover.labex.io/cka-practice-exam-02.png?lang=es)](https://labex.io/es/courses/cka-practice-exam-02)
 
 Un segundo examen de práctica independiente al estilo CKA, que incluye 20 desafíos de administración de Kubernetes que cubren los dominios públicos de CKA a través de diversos escenarios operativos.
 
