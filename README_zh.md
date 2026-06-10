@@ -1,8 +1,8 @@
-# CKA 培训 认证备考路径
+# CKA 培训 Certification Prep Path
 
 ## 支持语言
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/zh/learn/cka"><img width="128px" src="https://file.labex.io/path/D11aS1XBKGaa.png"></a>
@@ -22,7 +22,7 @@
 
 [开始课程](https://labex.io/zh/courses/cka-prep) · 实验: 48
 
-#### Cluster Orientation and Admin Foundations
+#### 集群导览与管理基础
 
 |   序号 | 名称                             | 难度   | 练习                                                                                                     |
 |------|--------------------------------|------|--------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@
 |    6 | 🧩  管理行政工作流的命名空间                | 初级   | [开始实验](https://labex.io/zh/labs/manage-namespaces-for-administrative-workflows-663784?course=cka-prep) |
 |    7 | 🧩  使用 Dry Run 和 Explain 处理清单文件 | 初级   | [开始实验](https://labex.io/zh/labs/use-dry-run-and-explain-for-manifests-663805?course=cka-prep)          |
 
-#### Workloads and Scheduling
+#### 工作负载与调度
 
 |   序号 | 名称                               | 难度   | 练习                                                                                                      |
 |------|----------------------------------|------|---------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@
 |    8 | 🧩  使用污点（Taints）与容忍度（Tolerations） | 初级   | [开始实验](https://labex.io/zh/labs/use-taints-and-tolerations-663807?course=cka-prep)                      |
 |    9 | 🧩  使用 PodDisruptionBudgets 保护可用性 | 初级   | [开始实验](https://labex.io/zh/labs/protect-availability-with-poddisruptionbudgets-663789?course=cka-prep)  |
 
-#### Cluster Architecture, Installation, and Configuration
+#### 集群架构、安装与配置
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                 |
 |------|-------------------------|------|----------------------------------------------------------------------------------------------------|
@@ -62,7 +62,7 @@
 |    8 | 🧩  定义并使用自定义资源           | 初级   | [开始实验](https://labex.io/zh/labs/define-and-use-a-custom-resource-663767?course=cka-prep)           |
 |    9 | 🧩  检查 CNI、CSI 和 CRI 接口  | 初级   | [开始实验](https://labex.io/zh/labs/inspect-cni-csi-and-cri-interfaces-663778?course=cka-prep)         |
 
-#### Services and Networking
+#### 服务与网络
 
 |   序号 | 名称                         | 难度   | 练习                                                                                               |
 |------|----------------------------|------|--------------------------------------------------------------------------------------------------|
@@ -75,7 +75,7 @@
 |    7 | 🧩  使用 Ingress 路由 HTTP 流量   | 初级   | [开始实验](https://labex.io/zh/labs/route-http-traffic-with-ingress-663799?course=cka-prep)          |
 |    8 | 🧩  使用网关路由发布 API            | 初级   | [开始实验](https://labex.io/zh/labs/publish-an-api-with-gateway-routing-663790?course=cka-prep)      |
 
-#### Storage
+#### 存储
 
 |   序号 | 名称                         | 难度   | 练习                                                                                                      |
 |------|----------------------------|------|---------------------------------------------------------------------------------------------------------|
@@ -86,7 +86,7 @@
 |    5 | 🧩  使用回收策略保留数据              | 初级   | [开始实验](https://labex.io/zh/labs/preserve-data-with-reclaim-policies-663788?course=cka-prep)             |
 |    6 | 🧩  排查 PVC 绑定与挂载故障          | 初级   | [开始实验](https://labex.io/zh/labs/troubleshoot-pvc-binding-and-mounts-663803?course=cka-prep)             |
 
-#### Troubleshooting and Maintenance
+#### 故障排查与维护
 
 |   序号 | 名称                         | 难度   | 练习                                                                                             |
 |------|----------------------------|------|------------------------------------------------------------------------------------------------|
@@ -106,14 +106,14 @@
 
 [开始课程](https://labex.io/zh/courses/cka-practice-exam-01) · 实验: 20
 
-#### Storage
+#### 存储
 
 |   序号 | 名称                                 | 难度   | 练习                                                                                                                      |
 |------|------------------------------------|------|-------------------------------------------------------------------------------------------------------------------------|
 |    1 | 🎯  使用 PersistentVolumeClaim 挂载应用数据 | 初级   | [开始挑战](https://labex.io/zh/labs/mount-application-data-with-a-persistentvolumeclaim-663017?course=cka-practice-exam-01) |
 |    2 | 🎯  为归档数据绑定静态 PersistentVolume      | 初级   | [开始挑战](https://labex.io/zh/labs/bind-a-static-persistentvolume-for-archive-data-663007?course=cka-practice-exam-01)     |
 
-#### Troubleshooting
+#### 故障排查
 
 |   序号 | 名称                              | 难度   | 练习                                                                                                                 |
 |------|---------------------------------|------|--------------------------------------------------------------------------------------------------------------------|
@@ -124,7 +124,7 @@
 |    5 | 🎯  恢复 CoreDNS 域名解析              | 初级   | [开始挑战](https://labex.io/zh/labs/restore-coredns-name-resolution-663023?course=cka-practice-exam-01)                |
 |    6 | 🎯  诊断集群资源压力                     | 初级   | [开始挑战](https://labex.io/zh/labs/diagnose-cluster-resource-pressure-663013?course=cka-practice-exam-01)             |
 
-#### Workloads and Scheduling
+#### 工作负载与调度
 
 |   序号 | 名称                                | 难度   | 练习                                                                                                                             |
 |------|-----------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -132,7 +132,7 @@
 |    2 | 🎯  使用 ConfigMap 和 Secret 配置应用程序设置 | 初级   | [开始挑战](https://labex.io/zh/labs/configure-application-settings-with-configmaps-and-secrets-663008?course=cka-practice-exam-01) |
 |    3 | 🎯  使用亲和性与资源控制进行工作负载调度             | 初级   | [开始挑战](https://labex.io/zh/labs/place-workloads-with-affinity-and-resource-controls-663019?course=cka-practice-exam-01)        |
 
-#### Cluster Architecture, Installation and Configuration
+#### 集群架构、安装与配置
 
 |   序号 | 名称                            | 难度   | 练习                                                                                                                  |
 |------|-------------------------------|------|---------------------------------------------------------------------------------------------------------------------|
@@ -142,7 +142,7 @@
 |    4 | 🎯  使用 Helm 和 Kustomize 部署集群插件 | 初级   | [开始挑战](https://labex.io/zh/labs/deploy-a-cluster-add-on-with-helm-and-kustomize-663012?course=cka-practice-exam-01) |
 |    5 | 🎯  定义并使用自定义资源                 | 初级   | [开始挑战](https://labex.io/zh/labs/define-and-use-a-custom-resource-663011?course=cka-practice-exam-01)                |
 
-#### Services and Networking
+#### 服务与网络
 
 |   序号 | 名称                             | 难度   | 练习                                                                                                                 |
 |------|--------------------------------|------|--------------------------------------------------------------------------------------------------------------------|
@@ -157,14 +157,14 @@
 
 [开始课程](https://labex.io/zh/courses/cka-practice-exam-02) · 实验: 20
 
-#### Storage
+#### 存储
 
 |   序号 | 名称                            | 难度   | 练习                                                                                                                 |
 |------|-------------------------------|------|--------------------------------------------------------------------------------------------------------------------|
 |    1 | 🎯  使用 StorageClass 提供应用程序日志存储 | 初级   | [开始挑战](https://labex.io/zh/labs/provision-application-logs-with-a-storageclass-663037?course=cka-practice-exam-02) |
 |    2 | 🎯  保留已释放卷中的数据                 | 初级   | [开始挑战](https://labex.io/zh/labs/preserve-released-data-from-a-retained-volume-663035?course=cka-practice-exam-02)  |
 
-#### Troubleshooting
+#### 故障排查
 
 |   序号 | 名称                               | 难度   | 练习                                                                                                                  |
 |------|----------------------------------|------|---------------------------------------------------------------------------------------------------------------------|
@@ -175,7 +175,7 @@
 |    5 | 🎯  维护偏差后的节点调度恢复                  | 初级   | [开始挑战](https://labex.io/zh/labs/restore-node-scheduling-after-maintenance-drift-663044?course=cka-practice-exam-02) |
 |    6 | 🎯  修复无头服务（Headless Service）的服务发现 | 初级   | [开始挑战](https://labex.io/zh/labs/repair-service-discovery-for-headless-workloads-663042?course=cka-practice-exam-02) |
 
-#### Workloads and Scheduling
+#### 工作负载与调度
 
 |   序号 | 名称                              | 难度   | 练习                                                                                                                     |
 |------|---------------------------------|------|------------------------------------------------------------------------------------------------------------------------|
@@ -183,7 +183,7 @@
 |    2 | 🎯  使用 PodDisruptionBudget 保护可用性 | 初级   | [开始挑战](https://labex.io/zh/labs/protect-availability-with-a-poddisruptionbudget-663036?course=cka-practice-exam-02)    |
 |    3 | 🎯  使用准入控制和运行时设置约束 Pod           | 初级   | [开始挑战](https://labex.io/zh/labs/constrain-pods-with-admission-and-runtime-settings-663029?course=cka-practice-exam-02) |
 
-#### Cluster Architecture, Installation and Configuration
+#### 集群架构、安装与配置
 
 |   序号 | 名称                                 | 难度   | 练习                                                                                                                  |
 |------|------------------------------------|------|---------------------------------------------------------------------------------------------------------------------|
@@ -193,7 +193,7 @@
 |    4 | 🎯  使用 Kustomize 安装分阶段的 CSI Mock 驱动 | 初级   | [开始挑战](https://labex.io/zh/labs/install-a-staged-csi-mock-driver-with-kustomize-663033?course=cka-practice-exam-02) |
 |    5 | 🎯  验证 Operator 管理的自定义资源            | 初级   | [开始挑战](https://labex.io/zh/labs/validate-an-operator-managed-custom-resource-663046?course=cka-practice-exam-02)    |
 
-#### Services and Networking
+#### 服务与网络
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                            |
 |------|-----------------------------|------|---------------------------------------------------------------------------------------------------------------|
