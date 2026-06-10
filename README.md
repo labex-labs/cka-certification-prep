@@ -2,7 +2,7 @@
 
 ## Languages
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇺🇸 [English](README.md) 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
 
 <div align="center">
 <a href="https://labex.io/learn/cka"><img width="128px" src="https://file.labex.io/path/D11aS1XBKGaa.png"></a>
@@ -18,7 +18,7 @@ Prepare for the Certified Kubernetes Administrator (CKA) exam with a structured,
 
 ### 1. [CKA Prep](https://labex.io/courses/cka-prep)
 
-A beginner-friendly CKA preparation course with 48 guided Kubernetes administration labs arranged from cluster orientation to workloads, architecture, networking, storage, troubleshooting, and maintenance.
+A beginner-friendly Certified Kubernetes Administrator (CKA) preparation course with 48 guided Kubernetes administration labs arranged from cluster orientation to workloads, architecture, networking, storage, troubleshooting, and maintenance.
 
 [Start Course](https://labex.io/courses/cka-prep) · Labs: 48
 
