@@ -18,6 +18,8 @@ Prepare for the Certified Kubernetes Administrator (CKA) exam with a structured,
 
 ### 1. [CKA Prep](https://labex.io/courses/cka-prep)
 
+[![CKA Prep](https://course-cover.labex.io/cka-prep.png)](https://labex.io/courses/cka-prep)
+
 A beginner-friendly Certified Kubernetes Administrator (CKA) preparation course with 48 guided Kubernetes administration labs arranged from cluster orientation to workloads, architecture, networking, storage, troubleshooting, and maintenance.
 
 [Start Course](https://labex.io/courses/cka-prep) · Labs: 48
@@ -102,6 +104,8 @@ A beginner-friendly Certified Kubernetes Administrator (CKA) preparation course 
 
 ### 2. [CKA Practice Exam 01](https://labex.io/courses/cka-practice-exam-01)
 
+[![CKA Practice Exam 01](https://course-cover.labex.io/cka-practice-exam-01.png)](https://labex.io/courses/cka-practice-exam-01)
+
 A hands-on CKA practice exam with 20 independent Kubernetes administration challenges covering storage, troubleshooting, workloads and scheduling, cluster architecture, and services and networking.
 
 [Start Course](https://labex.io/courses/cka-practice-exam-01) · Labs: 20
@@ -152,6 +156,8 @@ A hands-on CKA practice exam with 20 independent Kubernetes administration chall
 |       4 | 🎯  Configure an Internal DNS Alias                | Beginner     | [Start Challenge](https://labex.io/labs/configure-an-internal-dns-alias-663009?course=cka-practice-exam-01)                |
 
 ### 3. [CKA Practice Exam 02](https://labex.io/courses/cka-practice-exam-02)
+
+[![CKA Practice Exam 02](https://course-cover.labex.io/cka-practice-exam-02.png)](https://labex.io/courses/cka-practice-exam-02)
 
 A second independent CKA-style practice exam with 20 Kubernetes administration challenges covering the public CKA domains through different operational scenarios.
 
